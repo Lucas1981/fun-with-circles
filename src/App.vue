@@ -56,8 +56,8 @@ const width = 800;
 const height = 512;
 const radius = 200;
 const degreesToRadians = degrees => degrees * Math.PI / 180;
-const fillColor = 'black';
-const strokeColor = 'green';
+const fillColor = '#000000';
+const strokeColor = '#008800';
 
 export default {
   name: 'app',
